@@ -2,3 +2,4 @@
 - https://github.com/wasp-lang/open-saas
 - https://github.com/boxyhq/saas-starter-kit
 - https://github.com/ripienaar/free-for-dev
+- https://github.com/Atarity/deploy-your-own-saas
